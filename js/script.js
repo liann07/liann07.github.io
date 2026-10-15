@@ -5,7 +5,7 @@
    ========================================================= */
 
 // >>> CHANGE THIS to your real GitHub username <<<
-const GITHUB_USERNAME = "liann07";
+const GITHUB_USERNAME = "lianne07";
 
 
 /* ---------- 1. Mobile menu ---------- */
