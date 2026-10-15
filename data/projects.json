@@ -6,13 +6,5 @@
     "role": "Developer",
     "screenshot": "images/project1.png",
     "link": "https://liann07.github.io/blessedcafe/"
-  },
-  {
-    "title": "Mangrove School",
-    "description": "A responsive website for a school that provides information about the school, its programming courses, and allows students to register for classes.",
-    "technologies": ["HTML", "CSS", "JavaScript"],
-    "role": "Designer and developer",
-    "screenshot": "images/project2.png",
-    "link": "https://liann07.github.io/mangroveschool/"
   }
 ]
