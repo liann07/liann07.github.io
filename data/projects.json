@@ -6,5 +6,12 @@
     "role": "Developer",
     "screenshot": "images/project1.png",
     "link": "https://liann07.github.io/blessedcafe/"
-  }
+  },
+    "title": "Mangrove School",
+    "description": "School Activities and Products",
+    "technologies": ["Java", "MySQL"],
+    "role": "Developer",
+    "screenshot": "images/project2.png",
+    "link": "https://liann07.github.io/mangroveschool/"
+}
 ]
