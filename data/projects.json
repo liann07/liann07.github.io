@@ -22,5 +22,13 @@
     "role": "Designer and developer",
     "screenshot": "images/project3.png",
     "link": "https://tiny-semifreddo-fe25fe.netlify.app"
+  },
+  {
+    "title": "KD's BLESSED CAFE",
+    "description": "A website for customers who want to order online.",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "role": "Designer and developer",
+    "screenshot": "images/project4.png",
+    "link": "https://liann07.github.io/KDcafe/"
   }
 ]
